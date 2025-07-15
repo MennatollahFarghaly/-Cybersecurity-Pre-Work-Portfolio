@@ -1,4 +1,3 @@
-# -Cybersecurity-Pre-Work-Portfolio
 # 💻 Cybersecurity Pre-Work Portfolio
 
 Welcome to my portfolio prepared for the ITI Cybersecurity Track application. This includes my notes, write-ups, projects, and scripts created during my self-learning and practice. (ITI Egypt Intake 45 : 2026)
